@@ -14,7 +14,3 @@ class Car
     someone == nil ? @driver = nil : @driver = someone
   end
 end
-
-# saab = Car.new
-# saab.change_color('pink')
-# saab.set_driver('Peter')
